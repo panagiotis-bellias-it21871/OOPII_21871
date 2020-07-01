@@ -1,5 +1,0 @@
-Athens,	GR
-		10435
-Thessaloniki,	GR
-		14231
-Patra,	GR		113
